@@ -1,5 +1,12 @@
 número = 7 
-se número % 2 == 0
+if número % 2 == 0:
            resultado = "Par"
-señao:
+else:
            resultado = "Impar"
+
+
+## numero = 7 
+## if numero % 2 == 0:
+##           resultado = "Par"
+## else:
+##           resultado = "Impar"
