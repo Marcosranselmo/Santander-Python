@@ -1,8 +1,8 @@
-número = 7 
-if número % 2 == 0:
-           resultado = "Par"
+numero = 7 
+if numero % 2 == 0:
+           print("Par")
 else:
-           resultado = "Impar"
+           print("Impar")
 
 
 ## numero = 7 
@@ -10,3 +10,4 @@ else:
 ##           resultado = "Par"
 ## else:
 ##           resultado = "Impar"
+
